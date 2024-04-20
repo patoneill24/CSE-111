@@ -1,0 +1,25 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+I think I saw the power of functions while completing my final project. I was able to make a
+function that took a dictionary and returned a new dictionary with the keys that contain the top 5 values. I 
+was able to run several different dictionaries as arguments for that function, and I was able to get results very quickly
+that helped me retrieve the data I needed for my charts. 
+
+
+2. In your judgment, what is the value of test functions?
+    
+Test functions hold great value becase they ensure that the functions you wrote work as you intended. You may have written a 
+great function that works, but it didn't get the results that you were meaning to get when you originally coded it. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+The first thing I do when fixing a program is I check to make sure I have proper syntax and then I make corrections as needed.
+If my code still doesn't work as intened, I google the error I got in my code to better understand what it means and how I can fix it.
+If I still am having troubles, I'll ask a classmate or a professor to look over my code. I could improve this process by utilizing the debugger
+function more often. 

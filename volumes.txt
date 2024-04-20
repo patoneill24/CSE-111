@@ -1,0 +1,4 @@
+(Date),  (tire width), (apect ratio), (diameter), (customer name), (phone number)
+2023-09-21, 205, 60, 15, 39.92, Patrick, 4086378979 
+(Date),  (tire width), (apect ratio), (diameter), (customer name), (phone number)
+2023-09-21, 185, 50, 14, 24.09, N/A, N/A 
